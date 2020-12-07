@@ -7,11 +7,11 @@ This is the final project AI for the Building AI (Elements of AI) course.
 
 The idea is a simple AI application that recommends recipe based on your alimentation behaviour. It uses your past meals and those from other users to recommend meals for the week.
 
-![background image by Asiya Kiev (https://unsplash.com/photos/SiwrpBnxDww)](https://images.unsplash.com/photo-1555244162-803834f70033?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
-
 ## Background
 
 The main problem is the lack of idea/inspiration when planning the food for the week. As I find myself often eating pasta and rice (too often), I wanted to create a tool that could help me eat more creative and diverse meals. This is a really frequent problem as we face it at least every week. To me, it's an important topic, cause it helps people eat better, more diverse, and might even motivate one's to cook.
+
+![background image by Asiya Kiev (https://unsplash.com/photos/SiwrpBnxDww)](https://images.unsplash.com/photo-1555244162-803834f70033?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
 ## How is it used?
 

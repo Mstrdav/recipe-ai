@@ -1,7 +1,7 @@
 
 # Recipe AI
 
-This is the final project AI for the Building AI (Elements of AI) course.
+This is the description AI for the final Building AI course project.
 
 ## Summary
 

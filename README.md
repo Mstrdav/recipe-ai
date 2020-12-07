@@ -26,23 +26,6 @@ Talking technical, the tool should use simple solutions :
 * Nearest Neighbours method - helps identify similar profiles in order to recommend recipes liked by others.
 * Unsupervised machine learning methods - because I want to try, and packing recipes in categories would be very useful.
 
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
 ## Challenges
 
 As this is a really simple tool, it should solve only the task it was built for. If it fits correctly, then the job will be complete. I can't see any limitations here.

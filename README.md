@@ -7,7 +7,7 @@ This is the final project AI for the Building AI (Elements of AI) course.
 
 The idea is a simple AI application that recommends recipe based on your alimentation behaviour. It uses your past meals and those from other users to recommend meals for the week.
 
-[background image by Asiya Kiev (https://unsplash.com/photos/SiwrpBnxDww)](https://images.unsplash.com/photo-1555244162-803834f70033?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
+![background image by Asiya Kiev (https://unsplash.com/photos/SiwrpBnxDww)](https://images.unsplash.com/photo-1555244162-803834f70033?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
 ## Background
 
